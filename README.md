@@ -147,7 +147,7 @@ Follow these steps to install and run the e-commerce website:
 
    - If you have Git installed, open a terminal and run the following command:
      ```
-     git clone https://github.com/ShahandFahad/E-Commerce.git
+     git clone https://github.com/Shahina-dev/E-Commerce.git
      ```
    - Alternatively, you can download the repository as a ZIP file from the following URL: [https://github.com/ShahandFahad/E-Commerce/archive/refs/heads/main.zip](https://Shahina-dev/E-Commerce/archive/refs/heads/main.zip)
    - Extract the contents of the ZIP file to a directory of your choice.
